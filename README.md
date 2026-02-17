@@ -19,5 +19,17 @@ To set up the Health Gen-AI project, follow these steps:
    ```
 
 
+ ## Try for yourself visit the site:
+ https://health-gen-ai-nine.vercel.app/
 
-For detailed documentation, refer to the [Wiki](https://github.com/malc3om/Health_Gen-Ai/wiki).
+## Screen Shots
+ <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/2bc041db-7df7-4614-aca2-b2337523ae33" />
+ <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/3612794e-6614-4dfb-a6ef-558275aced76" />
+<img width="1292" height="954" alt="image" src="https://github.com/user-attachments/assets/ed060df6-fcd6-4804-8b1c-1057aefd3e24" />
+<img width="1547" height="964" alt="image" src="https://github.com/user-attachments/assets/2da4fc94-1057-455a-8e88-28543c89f6e1" />
+<img width="990" height="966" alt="image" src="https://github.com/user-attachments/assets/cf1426e7-4fd6-477f-a6e6-58516de2b631" />
+<img width="1244" height="726" alt="image" src="https://github.com/user-attachments/assets/2c26c6e0-8ed1-49e8-aaee-aec4caf86c56" />
+
+
+
+
