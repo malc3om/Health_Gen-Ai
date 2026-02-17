@@ -1,4 +1,9 @@
 # Health Gen-AI
+AI-Powered Prevention Health Guardian
+
+Predict. Prevent. Protect.
+
+Health Gen AI is a full-stack preventive healthcare platform that uses machine learning to predict heart disease risk up to 3 months before symptoms appear. Instead of reacting after a health crisis, the system continuously monitors your vitals, analyzes patterns, and alerts you early — acting as a 24/7 AI health guardian.
 
 ## Project Setup
 
